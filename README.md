@@ -1,4 +1,4 @@
-# Samples for ASP.NET Core 5.0 (319)
+# Samples for ASP.NET Core 5.0 (323)
 
 The goal of this project is to enable .NET programmers to learn the new ASP.NET Core stack from the ground up directly from code. There is so much power in the underlying ASP.NET Core stack. Don't miss them!
 
@@ -18,16 +18,17 @@ I highly recommend using [Visual Studio Code](https://code.visualstudio.com/) to
 | [Configurations](/projects/configurations)                      | (7)  | [Orchard Core](/projects/orchard-core)                                                                          | (4)  |
 | [Dependency Injection](/projects/dependency-injection/)         | (4)  | [Request](/projects/request) (Form, Cookies, Query String, Headers)                                                                                    | (14) |
 | [Diagnostics](/projects/diagnostics)                            | (6)  | [Response](/projects/response)                                                                                  | (4)  |
-| [Endpoint Routing](/projects/endpoint-routing)                  | (31) | [Static Files and File Provider](/projects/file-provider)                                                       | (9)  |
+| [Endpoint Routing](/projects/endpoint-routing)                  | (32) | [Static Files and File Provider](/projects/file-provider)                                                       | (9)  |
 | [Features](/projects/features)                                  | (10) | [System.Text.Json](/projects/json)                                                                              | (11)  |
 | [Health Check](/projects/health-check)                          | (6)  | [Startup](/projects/startup)                                                                                    | (12) |
 | [IHttpClientFactory](/projects/httpclientfactory)               | (4)  | [URL Redirect/Rewrite](/projects/rewrite)                                                                       | (6)  |
-| [IHostedService](/projects/ihosted-service)                     | (1)  | [Syndications](/projects/syndications)                                                                          | (3)  |
+| [IHostedService](/projects/ihosted-service)                     | (2)  | [Syndications](/projects/syndications)                                                                          | (3)  |
 | [Generic Hosting](/projects/generic-host)                       | (9)  | [Uri Helper](/projects/uri-helper)                                                                              | (5)  |
 | [gRPC](/projects/grpc) (including grpc-Web)                                          | (12) | [Web Sockets](/projects/web-sockets)                                                                            | (5)  |
 | [Logging](/projects/logging)                                    | (3)  | [Web Utilities](/projects/web-utilities)                                                                        | (3)  |
 | [Localization and Globalization](projects/localization)         | (6)  | For Data Access samples, go to the excellent [ORM Cookbook](https://github.com/Grauenwolf/DotNet-ORM-Cookbook). |      |
 | [Single File Application](projects/sfa) | (1) | [Orleans](projects/orleans) | (12) |
+| [Path String (HttpContext.Request.Path)](projects/path-string) | (1) |[Mini Apps](projects/mini) | 1 |
 |                                                                 | 138  |                                                                                                                 | 156  |
 ## How to run these samples
 
